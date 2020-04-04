@@ -1,0 +1,2707 @@
+{
+  "data": [
+    {
+      "device": "1D33B9",
+      "time": 1560500289,
+      "data": "00000002",
+      "rolloverCounter": 0,
+      "seqNumber": 126,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.2730000019073486,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 7.355999946594238,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.19",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560500229,
+      "data": "00000002",
+      "rolloverCounter": 0,
+      "seqNumber": 125,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.3660000562667847,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.743000030517578,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "13.49",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560500169,
+      "data": "00000002",
+      "rolloverCounter": 0,
+      "seqNumber": 124,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.38100004196167,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.812999963760376,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.53",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560500109,
+      "data": "00000002",
+      "rolloverCounter": 0,
+      "seqNumber": 123,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.4700000286102295,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.9739999771118164,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "13.25",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560500049,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 122,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.5609999895095825,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.5260000228881836,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "13.81",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560499989,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 121,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.5779999494552612,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.8429999351501465,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.37",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560499930,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 120,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.4709999561309814,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.8379998207092285,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "13.64",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560499891,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 119,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 0.7760000228881836,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.386000156402588,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "13.80",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560499801,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 118,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 0.8740000128746033,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.546999931335449,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.10",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560499721,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 117,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.4830000400543213,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 8.402999877929688,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.93",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560499602,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 116,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.3869999647140503,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.60099983215332,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.18",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560499583,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 115,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.781000018119812,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.11299991607666,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "13.41",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560499181,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 114,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 2.072000026702881,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.057000160217285,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.03",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560410090,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 113,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.9490000009536743,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 6.690000057220459,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.82",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560410065,
+      "data": "00000009",
+      "rolloverCounter": 0,
+      "seqNumber": 112,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.8530000448226929,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.0199999809265137,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.31",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560410045,
+      "data": "00000009",
+      "rolloverCounter": 0,
+      "seqNumber": 111,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.5609999895095825,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 2.61299991607666,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.99",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560410025,
+      "data": "00000009",
+      "rolloverCounter": 0,
+      "seqNumber": 110,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 2.1600000858306885,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.371999979019165,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "13.74",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560410005,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 109,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.8630000352859497,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.244999885559082,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.59",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560409926,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 108,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.468000054359436,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.505000114440918,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.37",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560409899,
+      "data": "00000034",
+      "rolloverCounter": 0,
+      "seqNumber": 107,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 0.9599999785423279,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.38700008392334,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.17",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560409879,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 106,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.5509999990463257,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.061999797821045,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.41",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560409859,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 105,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.2640000581741333,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.8380000591278076,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.40",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560409839,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 104,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.0499999523162842,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.870999813079834,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "13.32",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560409819,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 103,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 0.7630000114440918,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.5320000648498535,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.40",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560409799,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 102,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.3539999723434448,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 2.7039999961853027,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.56",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560409779,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 101,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.2660000324249268,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 6.742000102996826,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.59",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560409759,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 100,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 0.8539999723434448,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.878000020980835,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.39",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560409739,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 99,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.3730000257492065,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.794000148773193,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.16",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560330597,
+      "data": "39353137343233",
+      "rolloverCounter": 0,
+      "seqNumber": 98,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.4019999504089355,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.7850000858306885,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.52",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560330441,
+      "data": "3434",
+      "rolloverCounter": 0,
+      "seqNumber": 97,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.8969999551773071,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.2760000228881836,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.82",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560330308,
+      "data": "393939",
+      "rolloverCounter": 0,
+      "seqNumber": 96,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.2109999656677246,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.591000080108643,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.15",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560330236,
+      "data": "393837363534",
+      "rolloverCounter": 0,
+      "seqNumber": 95,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.9910000562667847,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 6.291999816894531,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "12.10",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560330186,
+      "data": "373839",
+      "rolloverCounter": 0,
+      "seqNumber": 94,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.7139999866485596,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.659999847412109,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "16.99",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560330138,
+      "data": "64676672",
+      "rolloverCounter": 0,
+      "seqNumber": 93,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.9149999618530273,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.189000129699707,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.78",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560330061,
+      "data": "3130",
+      "rolloverCounter": 0,
+      "seqNumber": 92,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.1970000267028809,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.605999946594238,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "13.66",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560329995,
+      "data": "313233343536",
+      "rolloverCounter": 0,
+      "seqNumber": 91,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.5989999771118164,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.9079999923706055,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "16.89",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560327329,
+      "data": "6f7569",
+      "rolloverCounter": 0,
+      "seqNumber": 90,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.406999945640564,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.99399995803833,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.78",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560326603,
+      "data": "68656c6c6f",
+      "rolloverCounter": 0,
+      "seqNumber": 89,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.6299999952316284,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.4670000076293945,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.89",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1560325828,
+      "data": "68656c6c6f",
+      "rolloverCounter": 0,
+      "seqNumber": 88,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.5290000438690186,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.822999954223633,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.34",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559726780,
+      "data": "00000022",
+      "rolloverCounter": 0,
+      "seqNumber": 87,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.277999997138977,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 7.6020002365112305,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "13.68",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559723121,
+      "data": "0000000c",
+      "rolloverCounter": 0,
+      "seqNumber": 86,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.0789999961853027,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.090000152587891,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "13.77",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559721376,
+      "data": "0000001f",
+      "rolloverCounter": 0,
+      "seqNumber": 85,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.7359999418258667,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.795000076293945,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.08",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559721196,
+      "data": "00000019",
+      "rolloverCounter": 0,
+      "seqNumber": 84,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.13100004196167,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.5989999771118164,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.36",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559721016,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 83,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.3370000123977661,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.355999946594238,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.83",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559643852,
+      "data": "00000017",
+      "rolloverCounter": 0,
+      "seqNumber": 81,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.8170000314712524,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 7.517000198364258,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.42",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559642067,
+      "data": "00000052",
+      "rolloverCounter": 0,
+      "seqNumber": 80,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.6299999952316284,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 6.3979997634887695,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.18",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559641947,
+      "data": "00000052",
+      "rolloverCounter": 0,
+      "seqNumber": 79,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.7400000095367432,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.230000019073486,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.31",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559641827,
+      "data": "00000050",
+      "rolloverCounter": 0,
+      "seqNumber": 78,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.062000036239624,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.486000061035156,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.73",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559641707,
+      "data": "0000004c",
+      "rolloverCounter": 0,
+      "seqNumber": 77,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.1490000486373901,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.35099983215332,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "13.91",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559641587,
+      "data": "00000034",
+      "rolloverCounter": 0,
+      "seqNumber": 76,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.25600004196167,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.7850000858306885,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.53",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559641467,
+      "data": "00000024",
+      "rolloverCounter": 0,
+      "seqNumber": 75,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.3600000143051147,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.206999778747559,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.76",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559641384,
+      "data": "00000001",
+      "rolloverCounter": 0,
+      "seqNumber": 74,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.75600004196167,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.422999858856201,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.75",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559640801,
+      "data": "00000021",
+      "rolloverCounter": 0,
+      "seqNumber": 73,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.5640000104904175,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.942999839782715,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.31",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559640681,
+      "data": "0000001c",
+      "rolloverCounter": 0,
+      "seqNumber": 72,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.6690000295639038,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 8.916999816894531,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.61",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559640561,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 71,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.8509999513626099,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.644999980926514,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.62",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559640441,
+      "data": "00000008",
+      "rolloverCounter": 0,
+      "seqNumber": 70,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.159000039100647,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.35699987411499,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.03",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559640219,
+      "data": "00000004",
+      "rolloverCounter": 0,
+      "seqNumber": 69,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.1770000457763672,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.875999927520752,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.20",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559639790,
+      "data": "0000000e",
+      "rolloverCounter": 0,
+      "seqNumber": 68,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.6799999475479126,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.065999984741211,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.18",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559639667,
+      "data": "0000000b",
+      "rolloverCounter": 0,
+      "seqNumber": 67,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.5800000429153442,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.099999904632568,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "13.89",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559638593,
+      "data": "00000018",
+      "rolloverCounter": 0,
+      "seqNumber": 66,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.3300000429153442,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 6.960999965667725,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "16.73",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559636600,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 65,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 2.559000015258789,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.868000030517578,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "16.93",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559633536,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 62,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 0.9079999923706055,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 7.49399995803833,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "14.92",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559633404,
+      "data": "0000001a",
+      "rolloverCounter": 0,
+      "seqNumber": 61,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 2.50600004196167,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 12.958999633789062,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.31",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1559543047,
+      "data": "00000000",
+      "rolloverCounter": 0,
+      "seqNumber": 60,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.5789999961853027,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 6.591000080108643,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "13.55",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558949430,
+      "data": "00000005",
+      "rolloverCounter": 0,
+      "seqNumber": 59,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 0.6729999780654907,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.3580000400543213,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.43",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558949400,
+      "data": "00000005",
+      "rolloverCounter": 0,
+      "seqNumber": 58,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 0.753000020980835,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.5,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.45",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558947416,
+      "data": "000000a1",
+      "rolloverCounter": 0,
+      "seqNumber": 57,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.2799999713897705,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.479000091552734,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.45",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558947356,
+      "data": "000000a1",
+      "rolloverCounter": 0,
+      "seqNumber": 56,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.0989999771118164,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.433000087738037,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "16.20",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943672,
+      "data": "00000008",
+      "rolloverCounter": 0,
+      "seqNumber": 55,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.4429999589920044,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.210000038146973,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "18.34",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943662,
+      "data": "00000008",
+      "rolloverCounter": 0,
+      "seqNumber": 54,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.7369999885559082,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.659999847412109,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.55",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943652,
+      "data": "00000008",
+      "rolloverCounter": 0,
+      "seqNumber": 53,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.4299999475479126,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 11.720000267028809,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.62",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943642,
+      "data": "00000008",
+      "rolloverCounter": 0,
+      "seqNumber": 52,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.5269999504089355,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 6.578000068664551,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.72",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943632,
+      "data": "00000008",
+      "rolloverCounter": 0,
+      "seqNumber": 51,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.7450000047683716,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.241000175476074,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "16.91",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943622,
+      "data": "00000008",
+      "rolloverCounter": 0,
+      "seqNumber": 50,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.2400000095367432,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 3.0989999771118164,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.32",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943612,
+      "data": "00000006",
+      "rolloverCounter": 0,
+      "seqNumber": 49,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.534999966621399,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.931000232696533,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "15.45",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943572,
+      "data": "00000001",
+      "rolloverCounter": 0,
+      "seqNumber": 48,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.034000039100647,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.1529998779296875,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "16.49",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943417,
+      "data": "0000001d",
+      "rolloverCounter": 0,
+      "seqNumber": 47,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.3339999914169312,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.880000114440918,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.42",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943407,
+      "data": "0000001d",
+      "rolloverCounter": 0,
+      "seqNumber": 46,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.63100004196167,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.127999782562256,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "18.52",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943397,
+      "data": "0000001d",
+      "rolloverCounter": 0,
+      "seqNumber": 45,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.0470000505447388,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 6.0289998054504395,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.58",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943387,
+      "data": "00000013",
+      "rolloverCounter": 0,
+      "seqNumber": 44,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.343000054359436,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.591000080108643,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.32",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943377,
+      "data": "00000008",
+      "rolloverCounter": 0,
+      "seqNumber": 43,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.6380000114440918,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.260000228881836,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "16.93",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943354,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 42,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.1399999856948853,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 6.181000232696533,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.86",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943344,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 41,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.434000015258789,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.561999797821045,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.24",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943334,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 40,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 0.9290000200271606,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.192999839782715,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.23",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943324,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 39,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.1480000019073486,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 6.2129998207092285,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "18.72",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943314,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 38,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.440999984741211,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 7.994999885559082,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "18.62",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943303,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 37,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.9359999895095825,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.074999809265137,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.90",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943293,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 36,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 2.2320001125335693,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 7.214000225067139,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "16.92",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943283,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 35,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 2.4519999027252197,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.302999973297119,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "19.99",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943273,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 34,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.944000005722046,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.235000133514404,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.32",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943263,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 33,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 2.240000009536743,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 7.175000190734863,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.74",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943253,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 32,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 2.549999952316284,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 8.515000343322754,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "18.37",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943243,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 31,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.9500000476837158,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.474999904632568,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.41",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943233,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 30,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 2.25,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.936999797821045,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "18.92",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943223,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 29,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 2.5439999103546143,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 5.50600004196167,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.97",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943213,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 28,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 2.0369999408721924,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 4.288000106811523,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "18.34",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943203,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 27,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 2.3299999237060547,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 6.708000183105469,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.84",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943193,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 26,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.746000051498413,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 10.107999801635742,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.26",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943174,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 25,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 2.140000104904175,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 6.627999782562256,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "18.87",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    },
+    {
+      "device": "1D33B9",
+      "time": 1558943164,
+      "data": "00000010",
+      "rolloverCounter": 0,
+      "seqNumber": 24,
+      "rinfos": [
+        {
+          "tap": "0CAA",
+          "delay": 1.6330000162124634,
+          "lat": "44.0",
+          "lng": "3.0"
+        },
+        {
+          "tap": "1D1A",
+          "delay": 6.0289998054504395,
+          "lat": "44.0",
+          "lng": "3.0"
+        }
+      ],
+      "nbFrames": 3,
+      "operator": "SIGFOX_France",
+      "country": "FRA",
+      "snr": "17.58",
+      "linkQuality": "GOOD",
+      "groupId": "5ce248ede833d9746695d44b"
+    }
+  ],
+  "paging": {
+    "next": "https://backend.sigfox.com/api/devices/1D33B9/messages?limit=100&before=1558943164"
+  }
+}

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 	    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<link rel="stylesheet" type:"text/css" href="style.css"/>
+		<title>Conseil Departemental</title>
+
+	</head>
+
+	<header>
+
+		<div class="menu">
+
+		<h1>GESTIONNAIRE DE DONNÉE</h1>
+
+		<img class="logo" src="logo.png" title="Conseil Départemental de l'Aveyron" alt="Logo du Conseil Départemental">
+
+		</div>
+
+	</header>
+
+	<body onload="getSigfox()">
+
+		<h2 class="titre2">Plateforme Web</h2>
+
+		<p class="presentation">
+		Bienvenue sur la plateforme d'affichage des donnée sigfox. Vous trouverer à votre gauche toute les informations<br>
+		émise par le capteur. Ces informations sont émise 2 fois par jour, une en fin de matiné et une en fin d'aprés midi.<br>
+		Ils y a 3 types de données: la fréquentation du lieu, l'heure de la réception du signal et la qualité de réception</p>
+
+		<div class="conteneur">
+
+			<div id="dataGetted"></div>
+
+		</div>
+
+	<script>
+		
+		function getSigfox(){
+			var xhttp; 
+			xhttp = new XMLHttpRequest();							// Création d'un objet requête.
+  			xhttp.onreadystatechange = function() {					// 
+    			if (xhttp.readyState == 4 && xhttp.status == 200)	// Si toutes les données ont été transmises sans erreur.
+
+    			{
+
+    				var myObj = JSON.parse(xhttp.responseText); 	// Parse les données pour que js comprenne.
+
+    				var tableau = new String(); 					// Création de variable type string pour stocker les données JSON qui sont des chaînes de caractère.
+  
+    				var data2 = new String();
+
+    				var donnee 
+
+    				var heure
+
+    				var myDate
+
+    				var n = Object.keys(myObj.data).length;			// Renvoie le nombre de "data".
+    				
+    				tableau = "<table><tr><th>Fréquantation</th><th>Heure</th><th>Qualité</th></tr>"; // Création du tableau d'affichage
+
+
+    				for (var i = 0; i < n; i++)						// Boucle pour afficher les valeurs de tous les messages.
+
+    				{
+
+    					myDate = new Date(myObj.data[i].time * 1000);	// Conversion de .time au format EPOCH en date.
+    					heure = myDate.toLocaleString();				// Améliorer le format de l'heure
+    					data2 =  myObj.data[i].data;				// Ajout des .data à la chaine de caractère Ox permettant à la suite d'une conversion
+    					donnee = parseInt(data2,16);						// Conversion de data 2 au format hexa en nombre
+    					tableau += "<tr><td>" + donnee + "</td><td>" + heure + "</td><td>" + myObj.data[i].linkQuality + "<td></tr>";	// Insertion des données dans le tableau d'affichage
+						
+    															  
+      				}
+
+      				tableau += "</table>";
+
+        			document.getElementById("dataGetted").innerHTML = tableau;  // Affiche le contenu de la variable data1
+
+    			}
+
+  			};
+
+  			xhttp.open("POST", "Test.txt", true);  // Requête (Données type formulaire, Fichier test,)
+
+  			xhttp.send();
+					
+		}		
+		
+
+
+	</script>
+
+<footer></footer>
+
+</body>
+
+</html>
