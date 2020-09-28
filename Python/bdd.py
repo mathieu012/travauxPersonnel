@@ -6,7 +6,7 @@ conn = mysql.connector.connect(host="127.0.0.1", user='root',
                             database='english')
 cursor = conn.cursor()
 
-#Sélectionne une ligne de manière aléatoire
+#Sélectionne un mot et sa traduction de manière aléatoire
 def selectRandom(): 
     cursor.execute("""SELECT id FROM vocabulaire""")
     idx = cursor.fetchall()
@@ -16,7 +16,13 @@ def selectRandom():
     conn.close()
     return data
 
+def insertVocabulaire(english, traduction):
+    try:
+        requete = ("INSERT INTO vocabulaire (word, mot) VALUES('" + english + "', '"+ traduction + "')" )
+        cursor.execute(requete)
+        return "SUCCESS"
 
-#data = 
-#cursor.execute("""INSERT INTO Vocabulaire (ref, nom, stock) VALUES(%(ref)d, "%(nom)s", %(stock)d""")
+    except :
+        return "ERROR"
+    
     
