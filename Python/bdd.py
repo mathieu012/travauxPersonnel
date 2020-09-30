@@ -13,7 +13,7 @@ def selectRandom():
     N = str(random.randint(1,(len(idx)+1)))
     cursor.execute("""SELECT word, mot FROM vocabulaire where id =""" + N)
     data = cursor.fetchall()
-    conn.close()
+    
     return data
 
 def insertVocabulaire(english, traduction):
@@ -25,4 +25,5 @@ def insertVocabulaire(english, traduction):
     except :
         return "ERROR"
     
-    
+def close():
+    conn.close()
