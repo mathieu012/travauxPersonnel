@@ -1,6 +1,7 @@
 import bdd
 from bdd import selectRandom
 from bdd import insertVocabulaire
+from bdd import verif
 from bdd import close 
 
 print ("Hey, please choose the options !")
@@ -15,13 +16,15 @@ while "1" == "1":
         print ("Hey, please insert your vocabulary !")
         english = input ('word :')
         traduction = input ('mot :')
-        print(insertVocabulaire(english, traduction))
+        #If the vocabulary doesn't in the BDD then insert the variable data
+        if verif(english, traduction) != "1" : print(insertVocabulaire(english, traduction))
+
     elif choose == 'stop':     
         close()
         break
     else:
-        #Bug : ne ma rien sortie une fois
-        print(selectRandom())
+        #Bug : once a void
+        selectRandom()
         
 
 
