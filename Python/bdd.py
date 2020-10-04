@@ -11,8 +11,11 @@ def selectRandom():
     
     cursor.execute("""SELECT id FROM vocabulaire""")
     idx = cursor.fetchall()
-    N = str(random.randint(1,(len(idx)+1)))
-    cursor.execute("""SELECT word, mot FROM vocabulaire where id =""" + N)
+    N = random.randint(0,(len(idx)-1))
+    idN = str(idx[N][0])
+    
+
+    cursor.execute("""SELECT word, mot FROM vocabulaire where id =""" + idN)
     data = cursor.fetchone()
     print("word = "+data[0])
     print("mot = "+data[1])
