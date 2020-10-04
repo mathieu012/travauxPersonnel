@@ -2,8 +2,8 @@ import mysql.connector
 import random
 from mysql.connector import errorcode
 
-conn = mysql.connector.connect(host="127.0.0.1", user='root',
-                            database='english')
+conn = mysql.connector.connect(host="db4free.net", user='rootmat81',password="x-8@WDgRs4iN4AN" ,
+                            database='english81')
 cursor = conn.cursor()
 
 #Sélectionne un mot et sa traduction de manière aléatoire
