@@ -22,11 +22,11 @@ def insertVocabulaire(english, traduction):
     try:
         requete = ("INSERT INTO vocabulaire (word, mot) VALUES('" + english + "', '"+ traduction + "')" )
         cursor.execute(requete)
-        cursor.commit()
+        conn.commit()
         return "SUCCESS"
 
     except :
-        cursor.rollback()
+        conn.rollback()
         return "ERROR"
 
 def verif(english, traduction):
